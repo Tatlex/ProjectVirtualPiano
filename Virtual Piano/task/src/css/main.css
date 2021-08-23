@@ -1,0 +1,23 @@
+
+.bodyStyle{
+    background-color: lightseagreen;
+}
+
+.container{
+    display: flex;
+    flex-wrap: initial;
+    width: 30%;
+    margin: 10% auto;
+    text-align: center;
+
+
+}
+
+kbd {
+    display: inline-block;
+    border: 3px solid black;
+    height: 250px;
+    width: 80px;
+    margin-left: auto;
+    background-color: white;
+}
