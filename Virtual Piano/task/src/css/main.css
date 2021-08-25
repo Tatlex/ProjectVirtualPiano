@@ -9,15 +9,17 @@
     width: 30%;
     margin: 10% auto;
     text-align: center;
-
-
 }
 
 kbd {
     display: inline-block;
-    border: 3px solid black;
-    height: 250px;
-    width: 80px;
-    margin-left: auto;
-    background-color: white;
+    padding-top: 190px;
+    padding-bottom: 60px;
+    width: 60px;
+    margin-right: -3px;
+    margin-left: 0;
+    text-align: center;
+    border: 5px solid black;
+    background: white;
+
 }
